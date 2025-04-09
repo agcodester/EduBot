@@ -7,7 +7,7 @@ faiss-cpu>=1.7.4
 # Pre-install blis with specific version to avoid build issues
 blis==0.7.9
 # Install spacy after blis is properly installed
-spacy>=3.6.0
+spacy>=3.5.0
 # Specify en_core_web_sm model to be installed
-
+thinc==8.1.0
 pypdf>=3.15.1
